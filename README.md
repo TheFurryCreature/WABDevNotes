@@ -9,6 +9,9 @@ https://developers.arcgis.com/web-appbuilder/guide/
 Classes:
 https://developers.arcgis.com/web-appbuilder/api-reference/widgetmanager.htm
 
+## Dojo Widget LifeCycle
+https://dojotoolkit.org/reference-guide/1.7/dijit/_WidgetBase.html
+
 ## WebAppBuilder Widget LifeCycle
 Auto Implemented functions etc.
 https://developers.arcgis.com/web-appbuilder/guide/widget-life-cycle.htm

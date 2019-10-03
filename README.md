@@ -6,6 +6,8 @@ Use the following link pattern to debug the initial settings popup for a custom 
 
 ## WebAppBuilder API Reference
 https://developers.arcgis.com/web-appbuilder/guide/
+Classes:
+https://developers.arcgis.com/web-appbuilder/api-reference/widgetmanager.htm
 
 ## WebAppBuilder Widget LifeCycle
 Auto Implemented functions etc.

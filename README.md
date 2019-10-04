@@ -4,6 +4,10 @@ Web AppBuilder for ArcGIS Development Notes
 ## Debugging the settings code for a custom widget
 Use the following link pattern to debug the initial settings popup for a custom WAB widget https://localhost:3344/webappbuilder/?id=stemapp
 
+## Debugging the widget itself
+Use the following url pattern to debug a custom WAB widget without creating a new application
+https://localhost:3344/webappviewer/?config=configs/config.json
+
 ## WebAppBuilder API Reference
 https://developers.arcgis.com/web-appbuilder/guide/
 Classes:

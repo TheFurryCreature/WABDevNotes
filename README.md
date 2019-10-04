@@ -20,3 +20,8 @@ https://dojotoolkit.org/reference-guide/1.7/dijit/_WidgetBase.html
 Auto Implemented functions etc.
 https://developers.arcgis.com/web-appbuilder/guide/widget-life-cycle.htm
 
+## SVG Icons
+https://esri.github.io/calcite-ui-icons/
+
+
+

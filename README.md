@@ -24,10 +24,10 @@ https://developers.arcgis.com/web-appbuilder/guide/widget-life-cycle.htm
 https://esri.github.io/calcite-ui-icons/
 
 ## Best Practices
-https://gis.utah.gov/best-practices-for-building-web-appbuilder-widgets/
-https://github.com/agrc/wfrc-wab-widgets#add-a-polyfill-for-older-browsers
-https://github.com/Esri/generator-esri-appbuilder-js
-https://github.com/gbochenek/wab-test-example
+- https://gis.utah.gov/best-practices-for-building-web-appbuilder-widgets/
+- https://github.com/agrc/wfrc-wab-widgets#add-a-polyfill-for-older-browsers
+- https://github.com/Esri/generator-esri-appbuilder-js
+- https://github.com/gbochenek/wab-test-example
 
 
 

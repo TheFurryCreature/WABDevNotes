@@ -29,6 +29,8 @@ https://esri.github.io/calcite-ui-icons/
 - https://github.com/Esri/generator-esri-appbuilder-js
 - https://github.com/gbochenek/wab-test-example
 
-
+## Clone ESRI objects
+- https://community.esri.com/thread/180964
+- var jsonGraphic = graphic.toJson(); var newGraphic = new Graphic(jsonGraphic); // instead of cloning graphics if already on screen
 
 

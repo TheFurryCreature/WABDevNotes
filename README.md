@@ -33,4 +33,8 @@ https://esri.github.io/calcite-ui-icons/
 - https://community.esri.com/thread/180964
 - var jsonGraphic = graphic.toJson(); var newGraphic = new Graphic(jsonGraphic); // instead of cloning graphics if already on screen
 
+## Cool Vizualisations
+https://ekenes.github.io/conferences/uc-2019/2d-viz/demos/sm-sliders/
+
+
 

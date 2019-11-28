@@ -37,7 +37,9 @@ https://esri.github.io/calcite-ui-icons/
 https://ekenes.github.io/conferences/uc-2019/2d-viz/demos/sm-sliders/
 
 ## App Authentication
-https://medium.com/geographit/authentication-and-authorization-with-arcgis-online-oauth-2-0-10994e975743
+- https://medium.com/geographit/authentication-and-authorization-with-arcgis-online-oauth-2-0-10994e975743
+- https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/
+
 
 
 

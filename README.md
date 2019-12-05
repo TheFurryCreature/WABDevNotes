@@ -47,7 +47,7 @@ https://community.esri.com/thread/160310
 Portal uses Session Storage - access token will persist as long as the browser instance, such as Chrome is open. It will persist through refreshes and page reloads, however, when Chrome is shut down - the session ends and the user will have to login again.
 
 ## Authorise apps
-https://*<portal>*/portal/sharing/oauth2/authorize?client_id=<appid>&response_type=token&state={"portalUrl":"*<portal>*/portal"}&expiration=20160&redirect_uri=*<redirect link to app or data>*
+https://{portal}/portal/sharing/oauth2/authorize?client_id={appid}&response_type=token&state={"portalUrl":"*{portal}/portal"}&expiration=20160&redirect_uri={redirect link to app or data}
 
 
 

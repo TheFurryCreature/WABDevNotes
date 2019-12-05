@@ -47,10 +47,23 @@ https://community.esri.com/thread/160310
 Portal uses Session Storage - access token will persist as long as the browser instance, such as Chrome is open. It will persist through refreshes and page reloads, however, when Chrome is shut down - the session ends and the user will have to login again.
 
 ## Authorise apps
+
+Portal / ArcGIS Online uses Oauth2 rest authorization. The two ways to authorise is named user and app user. 
+
+- Authorization Endpoint: https://<host>:<port>/<subdirectory>/sharing/rest/oauth2/authorize
+- Token Endpoint: https://<host>:<port>/<subdirectory>/sharing/rest/oauth2/token  ** Replaces generateToken
+
+Resources:
+- https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/arcgis-server-and-portal-for-arcgis/
+- https://developers.arcgis.com/rest/users-groups-and-items/token.htm
+- https://developers.arcgis.com/rest/users-groups-and-items/authentication.htm
+
 https://{portal}/portal/sharing/oauth2/authorize?client_id={appid}&response_type=token&state={"portalUrl":"*{portal}/portal"}&expiration=20160&redirect_uri={redirect link to app or data}
 - https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/mobile-and-native-user-logins/#authorization-example
+
+Example with Node.js
 - https://medium.com/geographit/authentication-and-authorization-with-arcgis-online-oauth-2-0-10994e975743
-- https://developers.arcgis.com/rest/users-groups-and-items/authentication.htm
+
 
 
 

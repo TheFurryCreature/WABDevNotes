@@ -50,6 +50,7 @@ Portal uses Session Storage - access token will persist as long as the browser i
 https://{portal}/portal/sharing/oauth2/authorize?client_id={appid}&response_type=token&state={"portalUrl":"*{portal}/portal"}&expiration=20160&redirect_uri={redirect link to app or data}
 - https://developers.arcgis.com/documentation/core-concepts/security-and-authentication/mobile-and-native-user-logins/#authorization-example
 - https://medium.com/geographit/authentication-and-authorization-with-arcgis-online-oauth-2-0-10994e975743
+- https://developers.arcgis.com/rest/users-groups-and-items/authentication.htm
 
 
 
